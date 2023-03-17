@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(200, 133, 16);
+}
+main{
+    /* text-align: center; */
+    width: 90%;
+    height: 500px;
+    padding: 10px;
+    margin-left: 40px;
+    outline: solid 2px black;
+    /* display:flex; */
+    /* justify-content: center; */
+    background: beige;
+}
+li{
+    text-align: center;
+    display: inline;
+}
+h1{
+    border-bottom: 2px dotted rgb(137, 230, 176);
+    text-align: center;
+}
+p{
+    text-align:center;
+}
+
+
